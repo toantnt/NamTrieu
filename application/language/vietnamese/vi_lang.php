@@ -1,0 +1,89 @@
+<?php 
+$lang['home'] 					= 'Trang chủ';
+$lang['recent'] 					= 'Bài gần đây';
+$lang['login'] 					= 'Đăng nhập';
+$lang['register'] 				= 'Đăng ký';
+$lang['account_infor']			= 'Thông tin tài khoản';
+
+$lang['collection'] 				= 'Bộ sưu tập';
+$lang['buy'] 					= 'Mua';
+$lang['more_detail'] 			= 'Chi tiết';
+$lang['related'] 				= 'Bạn có thể thích';
+$lang['add_cart_success'] 		= 'đã được thêm vào giỏ.';
+$lang['add_to_cart'] 			= 'Thêm vào giỏ hàng';
+$lang['read_more_post']			= 'Xem thêm';
+
+$lang['dashboard']				= 'Thông tin người dùng';
+$lang['address_book']			= 'Sổ địa chỉ';
+$lang['access_detail']			= 'Chi tiết đăng nhập';
+$lang['date_birth']				= 'Ngày sinh';
+$lang['orders']					= 'Các đơn hàng';
+$lang['logout']					= 'Thoát';
+$lang['full_name']				= 'Tên đầu đủ';
+$lang['nice_name']				= 'Tên đăng nhập';
+$lang['user_image']				= 'Ảnh đại điện';
+$lang['username']				= 'Tên đăng nhập';
+$lang['password']				= 'Mật khẩu';
+$lang['email']					= 'Email';
+$lang['phone_number']			= 'Số điện thoại';
+$lang['update_account']			= 'Cập nhật';
+$lang['cancel']					= 'Hủy bỏ';
+$lang['username_or_email']		= 'Tài khoản';
+$lang['address']					= 'Địa chỉ';
+$lang['city']					= 'Thành phố';
+$lang['zipcode']					= 'Mã bưu điện';
+$lang['country']					= 'Quốc gia';
+$lang['account']					= 'Tài khoản';
+$lang['sub_total']				= 'Tổng phụ';
+$lang['view_cart']				= 'Xem giỏ hàng';
+$lang['title_cart']				= 'Giỏ hàng';
+
+$lang['product']					= 'Sản phẩm';
+$lang['product_name']			= 'Tên sản phẩm';
+$lang['units']					= 'Số lượng';
+$lang['price']					= 'Đơn giá';
+$lang['total_price']				= 'Số tiền';
+$lang['delete']					= 'Xoá';
+$lang['total_payment']			= 'Tổng chi phí';
+$lang['total']					= 'Tổng';
+$lang['shipping_pay']			= 'VẬN CHUYỂN, THANH TOÁN, XÁC NHẬN';
+$lang['purchase_guest']			= 'KHÁCH VÃNG LAI THANH TOÁN';
+$lang['regsiter_us']				= 'Đăng ký với chúng tôi';
+$lang['back']					= 'Quay lại';
+$lang['continue']				= 'Tiếp tục';
+$lang['register_account']		= 'Đăng ký tài khoản';
+$lang['thank_for_register']		= 'Cảm ơn bạn đã đăng ký';
+$lang['my_account']				= 'Tài khoản của tôi';
+$lang['continue_shop']			= 'Tiếp tục mua hàng';
+$lang['account_not_exists']		= 'Tài khoản không tồn tại';
+$lang['price']					= 'Giá';
+$lang['color']					= 'Màu sắc';
+$lang['size'] 					= 'Size';
+$lang['order']					= 'Đặt hàng';
+$lang['continue_shopping']		= 'Tiếp tục mua hàng';
+$lang['total_product_cost'] 		= 'Tổng chi phí sản phẩm';
+$lang['checkout'] 				= 'Thanh toán';
+$lang['shipping_address'	] 		= 'Địa chỉ giao nhận';
+$lang['shop'	]					= 'Sản phẩm';
+
+$lang['first_name']				= 'Họ - tên đệm';
+$lang['last_name'] 				= 'Tên';
+$lang['same_message_shipping']	= 'Địa chỉ này cũng là địa chỉ thanh toán của tôi';
+$lang['bill_address'] 			= 'Địa chỉ thanh toán';
+$lang['summary'] 				= 'Tổng quan';
+$lang['have_question'] 			= 'Bạn có câu hỏi';
+$lang['shipping_cost'] 			= 'Phí vận chuyển';
+$lang['tax']						= 'Thuế';
+$lang['thank_your_order']		= 'Cảm ơn bạn. Đơn đặt hàng của bạn đã được ghi nhận.';
+$lang['account_summary']			= 'Bạn có thể truy cập và sửa đổi các chi tiết cá nhân của bạn để tạo thuận lợi cho việc mua hàng trong tương lai và thông báo cho chúng tôi về bất kỳ sự thay đổi nào trong các chi tiết liên lạc của bạn.';
+$lang['remember_me']				= 'Ghi nhớ đăng nhập';
+$lang['forgot_password']			= 'Quên mật khẩu';
+$lang['creat_account']			= 'Tạo tài khoản mới';
+$lang['surname']					= 'Họ tên';
+$lang['setting']					= 'Tuỳ chỉnh';
+$lang['contact']					= 'Liên hệ';
+$lang['forgot_pass']				= 'Quên mật khẩu';
+$lang['reset_success']			= 'Mật khẩu đã được cập nhật';
+
+
+

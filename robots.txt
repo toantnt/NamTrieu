@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /application/config
+Disallow: /application/core
+Disallow: /application/libraries
+Disallow: /application/log
+Disallow: /application/third_party
+Disallow: /system

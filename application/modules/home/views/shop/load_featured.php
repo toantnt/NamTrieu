@@ -1,0 +1,1 @@
+<img src="<?php echo $attrImge->value ?>" class="detail-img-product" alt="<?php echo $attrImge->value ?>" />

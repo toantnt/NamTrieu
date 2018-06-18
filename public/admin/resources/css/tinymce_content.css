@@ -1,0 +1,10 @@
+body,td, p, pre {
+	color:#000; 
+	font-family:Helvetica, sans-serif; 
+}
+body, p, pre, h1, h2, h3, h4, h5, h6, a, b, i, u, span, strong, strike, ol, ul, li, dl, dd, dt,
+table, th, td, thead, tbody, tr, iframe, frame, section, aside, article, nav, footer, header, main, 
+img, video, embed, canvas {
+	color:#000 !important; 
+	font-family:Helvetica, sans-serif !important; 
+}
